@@ -48,6 +48,7 @@
 # include "bytes_ppc.hpp"
 #endif
 
+#define CC_INTERP
 #ifdef CC_INTERP
 
 // JavaStack Implementation

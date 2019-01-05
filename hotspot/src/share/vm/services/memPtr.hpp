@@ -123,7 +123,7 @@ class MemPointer VALUE_OBJ_CLASS_SPEC {
   address    _addr;
 };
 
-/* MemPointerRecord records an activityand associated
+/* MemPointerRecord records an activity and associated
  * attributes on a memory block.
  */
 class MemPointerRecord : public MemPointer {
